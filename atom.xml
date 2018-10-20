@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tc214.github.io/"/>
-  <updated>2018-10-20T08:30:50.029Z</updated>
+  <updated>2018-10-20T10:56:32.672Z</updated>
   <id>https://tc214.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://tc214.github.io/2018/10/20/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://tc214.github.io/2018/10/20/测试/</id>
+    <published>2018-10-20T10:54:00.000Z</published>
+    <updated>2018-10-20T10:56:32.672Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Oct 20 2018 19:00:24 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;的的的的速度发发&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Openstack集群安装</title>
@@ -27,7 +46,7 @@
     
       
       
-        &lt;!-- build time:Sat Oct 20 2018 18:48:07 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Openstack集群安装&quot;&gt;&lt;a href=&quot;#Openstack集群安装&quot; class=&quot;headerlink&quot; title=&quot;Open
+        &lt;!-- build time:Sat Oct 20 2018 19:00:24 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Openstack集群安装&quot;&gt;&lt;a href=&quot;#Openstack集群安装&quot; class=&quot;headerlink&quot; title=&quot;Open
       
     
     </summary>
@@ -48,7 +67,7 @@
     
       
       
-        &lt;!-- build time:Sat Oct 20 2018 18:48:07 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Kubernetes集群&quot;&gt;&lt;a href=&quot;#Kubernetes集群&quot; class=&quot;headerlink&quot; title=&quot;Kubern
+        &lt;!-- build time:Sat Oct 20 2018 19:00:24 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Kubernetes集群&quot;&gt;&lt;a href=&quot;#Kubernetes集群&quot; class=&quot;headerlink&quot; title=&quot;Kubern
       
     
     </summary>
@@ -69,7 +88,7 @@
     
       
       
-        &lt;!-- build time:Sat Oct 20 2018 18:48:07 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noref
+        &lt;!-- build time:Sat Oct 20 2018 19:00:24 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noref
       
     
     </summary>
