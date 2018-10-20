@@ -23,11 +23,13 @@
     <published>2018-10-20T08:08:42.000Z</published>
     <updated>2018-10-20T08:09:02.438Z</updated>
     
+    <content type="html"><![CDATA[<h2 id="Openstack集群安装"><a href="#Openstack集群安装" class="headerlink" title="Openstack集群安装"></a>Openstack集群安装</h2><h3 id="Openstack集群安装-1"><a href="#Openstack集群安装-1" class="headerlink" title="Openstack集群安装"></a>Openstack集群安装</h3>]]></content>
+    
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Oct 20 2018 16:18:19 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Openstack集群安装&quot;&gt;&lt;a href=&quot;#Openstack集群安装&quot; class=&quot;headerlink&quot; title=&quot;Open
+        &lt;h2 id=&quot;Openstack集群安装&quot;&gt;&lt;a href=&quot;#Openstack集群安装&quot; class=&quot;headerlink&quot; title=&quot;Openstack集群安装&quot;&gt;&lt;/a&gt;Openstack集群安装&lt;/h2&gt;&lt;h3 id=&quot;Openstack集群安装-1&quot;&gt;&lt;a h
       
     
     </summary>
@@ -42,11 +44,13 @@
     <published>2018-10-20T08:05:45.000Z</published>
     <updated>2018-10-20T08:07:20.611Z</updated>
     
+    <content type="html"><![CDATA[<h2 id="Kubernetes集群"><a href="#Kubernetes集群" class="headerlink" title="Kubernetes集群"></a>Kubernetes集群</h2><h3 id=""><a href="#" class="headerlink" title=" "></a> </h3><p>Kubernetes集群安装部署</p><p>•Kubernetes集群组件:<br>　　- etcd 一个高可用的K/V键值对存储和服务发现系统<br>　　- flannel 实现夸主机的容器网络的通信<br>　　- kube-apiserver 提供kubernetes集群的API调用<br>　　- kube-controller-manager 确保集群服务<br>　　- kube-scheduler 调度容器，分配到Node<br>　　- kubelet 在Node节点上按照配置文件中定义的容器规格启动容器<br>　　- kube-proxy 提供网络代理服务</p>]]></content>
+    
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Oct 20 2018 16:18:19 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Kubernetes集群&quot;&gt;&lt;a href=&quot;#Kubernetes集群&quot; class=&quot;headerlink&quot; title=&quot;Kubern
+        &lt;h2 id=&quot;Kubernetes集群&quot;&gt;&lt;a href=&quot;#Kubernetes集群&quot; class=&quot;headerlink&quot; title=&quot;Kubernetes集群&quot;&gt;&lt;/a&gt;Kubernetes集群&lt;/h2&gt;&lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;head
       
     
     </summary>
@@ -61,11 +65,13 @@
     <published>2018-10-20T04:19:41.233Z</published>
     <updated>2018-10-20T04:19:41.233Z</updated>
     
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Oct 20 2018 16:18:19 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noref
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
       
     
     </summary>
