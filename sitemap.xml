@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tc214.github.io/2018/10/20/k8s%E9%9B%86%E7%BE%A4%E5%AE%89%E8%A3%85/</loc>
+    
+    <lastmod>2018-10-20T12:42:42.235Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://tc214.github.io/2018/10/20/hello-world/</loc>
+    
+    <lastmod>2018-10-20T12:40:34.832Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://tc214.github.io/2018/10/20/%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2018-10-20T10:56:32.672Z</lastmod>
@@ -58,23 +72,9 @@
   </url>
   
   <url>
-    <loc>https://tc214.github.io/2018/10/20/k8s%E9%9B%86%E7%BE%A4%E5%AE%89%E8%A3%85/</loc>
-    
-    <lastmod>2018-10-20T08:30:53.319Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://tc214.github.io/2018/10/20/Openstack%E9%9B%86%E7%BE%A4%E5%AE%89%E8%A3%85/</loc>
     
     <lastmod>2018-10-20T08:30:50.029Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tc214.github.io/2018/10/20/hello-world/</loc>
-    
-    <lastmod>2018-10-20T04:19:41.233Z</lastmod>
     
   </url>
   
