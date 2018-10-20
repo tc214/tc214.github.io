@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-20T04:19:41.233Z</updated>
+  <updated>2018-10-20T08:09:02.438Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Openstack集群安装</title>
+    <link href="http://yoursite.com/2018/10/20/Openstack%E9%9B%86%E7%BE%A4%E5%AE%89%E8%A3%85/"/>
+    <id>http://yoursite.com/2018/10/20/Openstack集群安装/</id>
+    <published>2018-10-20T08:08:42.000Z</published>
+    <updated>2018-10-20T08:09:02.438Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Oct 20 2018 16:09:24 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Openstack集群安装&quot;&gt;&lt;a href=&quot;#Openstack集群安装&quot; class=&quot;headerlink&quot; title=&quot;Open
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>k8s集群安装</title>
+    <link href="http://yoursite.com/2018/10/20/k8s%E9%9B%86%E7%BE%A4%E5%AE%89%E8%A3%85/"/>
+    <id>http://yoursite.com/2018/10/20/k8s集群安装/</id>
+    <published>2018-10-20T08:05:45.000Z</published>
+    <updated>2018-10-20T08:07:20.611Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Oct 20 2018 16:09:24 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Kubernetes集群&quot;&gt;&lt;a href=&quot;#Kubernetes集群&quot; class=&quot;headerlink&quot; title=&quot;Kubern
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -27,7 +65,7 @@
     
       
       
-        &lt;!-- build time:Sat Oct 20 2018 16:02:24 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noref
+        &lt;!-- build time:Sat Oct 20 2018 16:09:24 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noref
       
     
     </summary>
